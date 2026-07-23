@@ -1,31 +1,49 @@
-# Hey, I'm Mel ðŸ‘‹
+<div align="center">
+  <img src="./assets/mel-medieval-avatar.png" width="220" alt="Illustrated portrait of Mel in medieval armor" />
 
-> Hobby coder, game modder, and relentless tinkerer from NYC.
+  # ⚔️ Mel of NYC 🛡️
 
-I enjoy pulling apart how software and games work, learning from the pieces, and building something new. My interests range from game mods and automation scripts to web servers, home-lab projects, and small experiments in Godot.
+  **Hobby Coder · Game Modder · Medieval-Era Enthusiast**
 
-## What I'm up to
+  *Forging mods, scripts, small games, and useful tools—one commit at a time.*
+</div>
 
-- ðŸŽ® Creating game mods, scripts, and quality-of-life tweaks
-- ðŸ•¹ï¸ Experimenting with game development in Godot
-- ðŸ› ï¸ Automating repetitive tasks and exploring new technologies
-- ðŸ¥§ Tinkering with Raspberry Pi, Pi-hole, and self-hosted services
-- ðŸ’¼ Open to work, collaborations, and interesting projects
+<p align="center">━━━━━━ ⚔️ ━━━━━━</p>
 
-## My toolbox
+## 📜 The Chronicle
 
-**Languages**  
-`C` Â· `C#` Â· `C++` Â· `JavaScript` Â· `Lua` Â· `PowerShell` Â· `Python` Â· `HTML5` Â· `CSS3` Â· `PHP` Â· `Perl`
+Greetings, traveler—I'm **Mel**, a hobby coder and game modder from NYC. I enjoy taking software and games apart, learning how the pieces work, and forging them into something new.
 
-**Frameworks, engines & modding**  
-`.NET` Â· `Godot Engine` Â· `Steam` Â· `Tampermonkey`
+My interests stretch from game mods and automation scripts to web servers, home-lab projects, and experiments in Godot. I'm also a huge fan of medieval history and bring a little of that atmosphere into the things I create.
 
-**Web, servers & data**  
-`Nginx` Â· `Apache HTTP Server` Â· `Apache Tomcat` Â· `MySQL` Â· `SQLite`
+## 🏹 Current Quests
 
-**Tools & systems**  
-`Windows Terminal` Â· `CMake` Â· `FFmpeg` Â· `GIMP` Â· `Pi-hole` Â· `Raspberry Pi`
+- 🎮 Crafting game mods, scripts, and quality-of-life improvements
+- 🕹️ Exploring game development with Godot Engine
+- ⚙️ Automating repetitive tasks with Python and PowerShell
+- 🏰 Running self-hosted services and Raspberry Pi projects
+- 🤝 Seeking work, collaborations, and interesting open-source quests
 
-## Let's build something
+## ⚒️ The Armory
 
-I'm always curious about clever mods, useful scripts, indie-game ideas, and practical open-source projects. Feel free to explore my work and follow along as I add new projects.
+| Guild | Tools of the Trade |
+| --- | --- |
+| **Languages** | `C` · `C#` · `C++` · `JavaScript` · `Lua` · `PowerShell` · `Python` · `HTML5` · `CSS3` · `PHP` · `Perl` |
+| **Gamecraft & Modding** | `.NET` · `Godot Engine` · `Steam` · `Tampermonkey` |
+| **Web Stronghold** | `Nginx` · `Apache HTTP Server` · `Apache Tomcat` · `MySQL` · `SQLite` |
+| **Workshop & Systems** | `Windows Terminal` · `CMake` · `FFmpeg` · `GIMP` · `Pi-hole` · `Raspberry Pi` |
+
+## 🏰 What I Enjoy Building
+
+- Mods that make games more fun, flexible, or convenient
+- Small tools that solve real everyday problems
+- Automation that saves time and removes repetitive work
+- Experiments that teach me a new language, engine, or system
+
+## 🕯️ Join the Guild
+
+I'm open to work and always interested in clever mods, useful scripts, indie-game ideas, and practical open-source projects. Explore the repositories as this chronicle grows—and feel free to follow along.
+
+<p align="center">━━━━━━ 🛡️ ⚔️ 🛡️ ━━━━━━</p>
+
+<p align="center"><em>Keep learning. Keep building. Keep forging.</em></p>
